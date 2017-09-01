@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "janken_gl.data.unityweb",
+"asmCodeUrl": "janken_gl.asm.code.unityweb",
+"asmMemoryUrl": "janken_gl.asm.memory.unityweb",
+"asmFrameworkUrl": "janken_gl.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
