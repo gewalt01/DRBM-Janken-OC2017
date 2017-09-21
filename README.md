@@ -7,3 +7,7 @@
 
 demo
 [http://gewalt01.github.io/DRBM-Janken-OC2017]
+
+
+本気モード(炎背景): CPUが勝つように学習
+接待モード(星背景): CPUがわざと負けるように学習
